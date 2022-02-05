@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="checkedTextColor">#EFFF9D</color>
+    <color name="uncheckedTextColor">#0D0B58</color>
+    <color name="checkedTextColor2">#D5F8E0</color>
+    <color name="uncheckedTextColor2">#37474F</color>
+    <color name="checkedTextColor3">#CBDBF5</color>
+    <color name="uncheckedTextColor3">#0D0B58</color>
+    <color name="uncheckedIndicator">#afd6d6d6</color>
+    <color name="checkedIndicator">#1e2a78</color>
+
+
+    <color name="colorRed">#F44336</color>
+    <color name="colorRedTrans">#FFEBEE</color>
+    <color name="colorBlue">#448AFF</color>
+    <color name="colorBlueTrans">#33448AFF</color>
+    <color name="colorGreen">#388E3C</color>
+    <color name="colorGreenTrans">#5966BB6A</color>
+    <color name="colorLightGray">#80ACACAC</color>
+    <color name="colorGray">#80383838</color>
+    <color name="colorGradient1">#78D378</color>
+    <color name="colorGradient2">#FFA7A0</color>
+    <array name="gradientColors">
+        <item>#F44336</item>
+        <item>#78D378</item>
+        <item>#FFA7A0</item>
+        <item>#388E3C</item>
+    </array>
+
+    <color name="netflix_white">#FFFFFFFF</color>
+    <color name="netflix_gray">#FFB2B2B2</color>
+    <color name="netflix_black">#FF1C1C1C</color>
+
+
+
+    <color name="ColorPrimary">#cf354b</color>
+    <color name="ColorPrimaryDark">#cf354b</color>
+    <color name="color_white_trans">#33ffffff</color>
+
+</resources>
