@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SwipeButton">
         <activity
+            android:name=".sample0.Sample0"
+            android:exported="false" />
+        <activity
             android:name=".sample5.BasicUsageActivity"
             android:exported="false" />
         <activity

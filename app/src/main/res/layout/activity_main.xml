@@ -23,6 +23,13 @@
     <com.google.android.material.button.MaterialButton
         android:layout_marginTop="10dp"
         android:layout_width="match_parent"
+        android:text="sample 0"
+        android:id="@+id/btn_sample_0"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
         android:text="sample 1"
         android:id="@+id/btn_sample_1"
         android:layout_height="wrap_content"/>
