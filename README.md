@@ -2,7 +2,6 @@
 
 Swipe Button For Android Kotlin
 Support RTL And LTR
-## Arash Altafi
 
 ## Screenshots
 
