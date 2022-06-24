@@ -9,6 +9,7 @@ import com.arash.altafi.swipebutton.sample2.Sample2
 import com.arash.altafi.swipebutton.sample3.Sample3
 import com.arash.altafi.swipebutton.sample4.Sample4
 import com.arash.altafi.swipebutton.sample5.Sample5
+import com.arash.altafi.swipebutton.sample6.Sample6
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -47,6 +48,10 @@ class MainActivity : AppCompatActivity() {
 
         btn_sample_5.setOnClickListener {
             startActivity(Intent(this, Sample5::class.java))
+        }
+
+        btn_sample_6.setOnClickListener {
+            startActivity(Intent(this, Sample6::class.java))
         }
 
     }
