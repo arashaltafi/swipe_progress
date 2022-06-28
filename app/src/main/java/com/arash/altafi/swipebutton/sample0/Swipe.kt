@@ -245,7 +245,7 @@ class Swipe : RelativeLayout {
                             collapseButton()
                         } else {
                             if (binding.flSliding.layoutDirection == LAYOUT_DIRECTION_RTL) {
-                                if (binding.llSwipe.x + binding.llSwipe.width < width * 0.5) {
+                                if (binding.llSwipe.x < width * 0.1) {
                                     if (hasActivationState) {
                                         expandButton()
                                     } else if (onActiveListener != null) {
@@ -256,7 +256,7 @@ class Swipe : RelativeLayout {
                                     moveButtonBack()
                                 }
                             } else {
-                                if (binding.llSwipe.x + binding.llSwipe.width > width * 0.8) {
+                                if (binding.llSwipe.x + binding.llSwipe.width > width * 0.9) {
                                     if (hasActivationState) {
                                         expandButton()
                                     } else
